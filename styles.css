@@ -1,28 +1,17 @@
-}
-/* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 600px) {
-  .example {background: red;}
-}
-/* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (min-width: 600px) {
-  .example {background: green;}
-}
-.viewport { 
+.ipad_mini_8_3___1 { 
 	width:744px;
 	height:1133px;
 	position:absolute;
 	background-color:rgba(255, 255, 255, 1);
 	left:0px;
 	top:0px;
-}
-.heading { 
+}.heading { 
 	width:343px;
 	height:45px;
 	position:absolute;
 	left:40px;
 	top:465px;
-}
-.all_the_pink_flowers { 
+}.all_the_pink_flowers { 
 	color:rgba(0, 0, 0, 1);
 	width:305px;
 	height:40px;
@@ -33,52 +22,37 @@
 	text-align:left;
 	font-size:32px;
 	letter-spacing:0;
-}
-
-.text_2 { 
-	color:rgba(0, 0, 0, 1);
+}.text_2 { 
 	width:273px;
 	height:508px;
 	position:absolute;
 	left:0px;
 	top:0px;
+	color:rgba(0, 0, 0, 1);
 	font-family:Karma;
 	text-align:left;
 	font-size:16px;
 	letter-spacing:0;
 	line-height:px;
-}
-.text_2 { 
+}.text_1 { 
 	width:273px;
 	height:508px;
 	position:absolute;
-	left:40px;
-	top:532px;
+	left:0px;
+	top:0px;
+	color:rgba(0, 0, 0, 1);
 	font-family:Karma;
 	text-align:left;
 	font-size:16px;
 	letter-spacing:0;
 	line-height:px;
-}
-.text_1 { 
-	width:273px;
-	height:508px;
-	position:absolute;
-	left:380px;
-	top:533px;font-family:Karma;
-	text-align:left;
-	font-size:16px;
-	letter-spacing:0;
-	line-height:px;
-}
-.kuva { 
+}.kuva { 
 	width:539px;
 	height:359px;
 	position:absolute;
 	left:40px;
 	top:49px;
-}
-.tomoko_uji_kxvn1ogptte_unsplash_3 { 
+}.tomoko_uji_kxvn1ogptte_unsplash_3 { 
 	width:539px;
 	height:359px;
 	position:absolute;
@@ -87,4 +61,4 @@
 	background-image:url(images/tomoko_uji_kxvn1ogptte_unsplash_3.png);
 	background-repeat:no-repeat;
 	background-size:cover;
-}
+}
