@@ -54,13 +54,22 @@
 	position:absolute;
 	left:40px;
 	top:532px;
+	font-family:Karma;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+	line-height:px;
 }
 .text_1 { 
 	width:273px;
 	height:508px;
 	position:absolute;
 	left:380px;
-	top:533px;
+	top:533px;font-family:Karma;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+	line-height:px;
 }
 .kuva { 
 	width:539px;
