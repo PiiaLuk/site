@@ -7,7 +7,7 @@
 @media only screen and (min-width: 600px) {
   .example {background: green;}
 }
-.ipad_mini_8_3___1 { 
+.viewport { 
 	width:744px;
 	height:1133px;
 	position:absolute;
