@@ -1,3 +1,12 @@
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .example {background: red;}
+}
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  .example {background: green;}
+}
 .ipad_mini_8_3___1 { 
 	width:744px;
 	height:1133px;
@@ -5,13 +14,15 @@
 	background-color:rgba(255, 255, 255, 1);
 	left:0px;
 	top:0px;
-}.heading { 
+}
+.heading { 
 	width:343px;
 	height:45px;
 	position:absolute;
 	left:40px;
 	top:465px;
-}.all_the_pink_flowers { 
+}
+.all_the_pink_flowers { 
 	color:rgba(0, 0, 0, 1);
 	width:305px;
 	height:40px;
@@ -22,13 +33,15 @@
 	text-align:left;
 	font-size:32px;
 	letter-spacing:0;
-}.text_2 { 
+}
+.text_2 { 
 	width:273px;
 	height:508px;
 	position:absolute;
 	left:40px;
 	top:532px;
-}.but_i_must_explain_to_you_how_all_this_mistaken_idea_of_denouncing_pleasure_and_praising_pain_was_born_and_i_will_give_you_a_complete_account_of_the_system__and_expound_the_actual_teachings_of_the_great_explorer_of_the_truth__the_master_builder_of_human_happiness__no_one_rejects__dislikes__or_avoids_pleasure_itself__because_it_is_pleasure__but_because_those_who_do_not_know_how_to_pursue_pleasure_rationally_encounter_consequences_that_are_extremely_painful__nor_again_is_there_anyone_who_loves_or_pursues_or_desires_to_obtain_pain_of_itself__because_it_is_pain__but_because_occasionally_circumstances_occur_in_which_toil_and_pain_can_procure_him_some_great_pleasure__to_take_a_trivial_example__which_of_us_ever_undertakes_laborious_physical_exercise__except_to_obtain_some_advantage_from_it__but_who_has_any_right_to_find_fault_with_a_man_who_chooses_to_enjoy_a_pleasure_that_has_no_annoying_consequences__or_one_who_avoids_a_pain_that_produces_no_resultant_pleasure__ { 
+}
+.but_i_must_explain_to_you_how_all_this_mistaken_idea_of_denouncing_pleasure_and_praising_pain_was_born_and_i_will_give_you_a_complete_account_of_the_system__and_expound_the_actual_teachings_of_the_great_explorer_of_the_truth__the_master_builder_of_human_happiness__no_one_rejects__dislikes__or_avoids_pleasure_itself__because_it_is_pleasure__but_because_those_who_do_not_know_how_to_pursue_pleasure_rationally_encounter_consequences_that_are_extremely_painful__nor_again_is_there_anyone_who_loves_or_pursues_or_desires_to_obtain_pain_of_itself__because_it_is_pain__but_because_occasionally_circumstances_occur_in_which_toil_and_pain_can_procure_him_some_great_pleasure__to_take_a_trivial_example__which_of_us_ever_undertakes_laborious_physical_exercise__except_to_obtain_some_advantage_from_it__but_who_has_any_right_to_find_fault_with_a_man_who_chooses_to_enjoy_a_pleasure_that_has_no_annoying_consequences__or_one_who_avoids_a_pain_that_produces_no_resultant_pleasure__ { 
 	color:rgba(0, 0, 0, 1);
 	width:273px;
 	height:508px;
@@ -40,19 +53,22 @@
 	font-size:16px;
 	letter-spacing:0;
 	line-height:px;
-}.text_1 { 
+}
+.text_1 { 
 	width:273px;
 	height:508px;
 	position:absolute;
 	left:380px;
 	top:533px;
-}.kuva { 
+}
+.kuva { 
 	width:539px;
 	height:359px;
 	position:absolute;
 	left:40px;
 	top:49px;
-}.tomoko_uji_kxvn1ogptte_unsplash_3 { 
+}
+.tomoko_uji_kxvn1ogptte_unsplash_3 { 
 	width:539px;
 	height:359px;
 	position:absolute;
@@ -61,4 +77,4 @@
 	background-image:url(images/tomoko_uji_kxvn1ogptte_unsplash_3.png);
 	background-repeat:no-repeat;
 	background-size:cover;
-}
+}
